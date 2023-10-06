@@ -1,0 +1,52 @@
+HTML (Hypertext Markup Language) is the standard markup language for creating web pages. It provides a structure for the content on the web. Here are some key features of HTML:
+
+1. Markup Tags:
+   - HTML uses markup tags to define elements on a web page.
+   - Tags are enclosed in angle brackets (`< >`), and most come in pairs (opening and closing tags).
+
+2. Document Structure:
+   - HTML documents have a basic structure with an opening `<html>` tag and closing `</html>` tag.
+   - The document is typically divided into a `<head>` section and a `<body>` section.
+
+3. Head Section:
+   - Contains meta-information about the HTML document, such as the title, character set, linked stylesheets, and scripts.
+   - Uses tags like `<title>`, `<meta>`, `<link>`, and `<script>`.
+
+4. Body Section:
+   - Contains the main content of the web page.
+   - Utilizes various tags for text, images, links, lists, forms, and more.
+
+5. Text Formatting:
+   - HTML provides tags for text formatting, including headings (`<h1>` to `<h6>`), paragraphs (`<p>`), emphasis (`<em>` and `<strong>`), and line breaks (`<br>`).
+
+6. Lists:
+   - Ordered lists (`<ol>`) and unordered lists (`<ul>`) are supported, with list items marked by `<li>`.
+
+7. Links:
+   - Hyperlinks are created using the `<a>` (anchor) tag. The `href` attribute specifies the URL.
+
+8. Images:
+   - Images are included using the `<img>` tag, with the `src` attribute pointing to the image file.
+
+9. Forms:
+   - HTML supports forms for user input, created with the `<form>` tag. Form elements include input fields (`<input>`), buttons (`<button>`), dropdowns (`<select>`), and more.
+
+10. Tables:
+    - Tables are constructed using the `<table>` tag, with rows defined by `<tr>` and cells by `<td>` (data cell) or `<th>` (header cell).
+
+11. Semantic Elements:
+    - HTML5 introduced semantic elements like `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, and `<aside>` to provide more meaning to the structure.
+
+12. Comments:
+    - Comments in HTML are enclosed within `<!--` and `-->` and are used to provide information to developers without affecting the page's display.
+
+13. Attributes:
+    - HTML elements can have attributes that provide additional information or settings. For example, the `class` and `id` attributes are commonly used for styling and JavaScript.
+
+14. Doctype Declaration:
+    - The `<!DOCTYPE>` declaration specifies the HTML version being used and helps browsers render the page correctly.
+
+15. Inline and Block Elements:
+    - Elements are categorized as inline or block-level. Inline elements don't start on a new line and only take up as much width as necessary, while block-level elements start on a new line and take up the full width available.
+
+These features collectively define the structure, presentation, and behavior of web content using HTML.
